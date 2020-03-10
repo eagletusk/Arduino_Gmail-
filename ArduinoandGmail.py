@@ -1,7 +1,10 @@
 #! /usr/bin/env python
-# Code my Mike Hord and Paul Sobczak
-# Gmail and Arduino 3/19/11
-# Twin Cites Maker
+# Code by Mike Hord and Paul Subzak
+# Gmail and Arduino
+# Twin Cites Maker, Minneapolis, MN
+
+#uses Python 2
+#uses Arduino 1.0
 
 import serial
 import time
